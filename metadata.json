@@ -1,0 +1,7 @@
+{
+  "name": "Hexa Digital Agency",
+  "description": "Professional digital marketing agency platform",
+  "version": "1.0.0",
+  "author": "Mahmoud",
+  "tech": ["React", "TypeScript", "Vite", "Tailwind CSS"]
+}
