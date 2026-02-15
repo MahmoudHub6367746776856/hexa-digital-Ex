@@ -53,7 +53,8 @@ const Footer: React.FC = () => {
         <div className="pt-8 border-t border-gray-800 flex flex-col md:row items-center justify-between text-sm text-gray-500">
           <p>© {new Date().getFullYear()} Hexa Digital Agency. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
-            <span>Made with <i className="fas fa-heart text-red-500 mx-1"></i> in San Francisco</span>
+            <span>Made with <i className="fas fa-heart text-red-500 mx-1"></i> © 2026 Mahmoud. All rights reserved.
+</span>
           </div>
         </div>
       </div>
